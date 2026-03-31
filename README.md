@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Engineer finishing my BSc in Data Engineering at UAB (Erasmus at TU Eindhoven). I build scalable pipelines, real-time streaming systems, and data infrastructure for analytics and AI. Currently at Avanade AI Hub building AI agents and data automation workflows in Azure.<br><br>I care about clean data models, good engineering practices, and systems that hold up at scale.
+I'm a Data Engineer finishing my BSc in Data Engineering at UAB. I build scalable pipelines, real-time streaming systems, and data infrastructure for analytics and AI. Currently at Avanade AI Hub building AI agents and data automation workflows in Azure.<br><br>I care about clean data models, good engineering practices, and systems that hold up at scale.
 
 
 ## 🌐 Socials:
