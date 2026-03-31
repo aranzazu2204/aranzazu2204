@@ -1,92 +1,10 @@
-<div align="center">
+# 💫 About Me:
+I'm a Data Engineer finishing my BSc in Data Engineering at UAB (Erasmus at TU Eindhoven). I build scalable pipelines, real-time streaming systems, and data infrastructure for analytics and AI. Currently at Avanade AI Hub building AI agents and data automation workflows in Azure.<br><br>I care about clean data models, good engineering practices, and systems that hold up at scale.
 
-<br/>
 
-# Aránzazu Miguélez
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aranzazu-miguelez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aranzazumiguelezm@gmail.com) 
 
-**Data Engineer · AI Systems · Real-Time Pipelines**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-Barcelona &nbsp;·&nbsp; [linkedin.com/in/aranzazu-miguelez](https://linkedin.com/in/aranzazu-miguelez) &nbsp;·&nbsp; aranzazumiguelezm@gmail.com
-
-<br/>
-
-</div>
-
----
-
-## About
-
-I'm a Data Engineer finishing my BSc in Data Engineering at UAB (Erasmus at TU Eindhoven). I build scalable pipelines, real-time streaming systems, and data infrastructure for analytics and AI. Currently at **Avanade AI Hub** building AI agents and data automation workflows in Azure.
-
-I care about clean data models, good engineering practices, and systems that hold up at scale.
-
----
-
-## Stack
-
-**Core**
-
-![Python](https://img.shields.io/badge/Python-3b4252?style=flat-square&logo=python&logoColor=a3be8c)
-![SQL](https://img.shields.io/badge/SQL-3b4252?style=flat-square&logo=postgresql&logoColor=a3be8c)
-![PySpark](https://img.shields.io/badge/PySpark-3b4252?style=flat-square&logo=apachespark&logoColor=ebcb8b)
-![Kafka](https://img.shields.io/badge/Kafka-3b4252?style=flat-square&logo=apachekafka&logoColor=d8dee9)
-
-**Cloud & Infra**
-
-![AWS](https://img.shields.io/badge/AWS-3b4252?style=flat-square&logo=amazonaws&logoColor=ebcb8b)
-![Azure](https://img.shields.io/badge/Azure-3b4252?style=flat-square&logo=microsoftazure&logoColor=88c0d0)
-![Docker](https://img.shields.io/badge/Docker-3b4252?style=flat-square&logo=docker&logoColor=88c0d0)
-![Terraform](https://img.shields.io/badge/Terraform-3b4252?style=flat-square&logo=terraform&logoColor=b48ead)
-
-**Data & Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3b4252?style=flat-square&logo=postgresql&logoColor=a3be8c)
-![MongoDB](https://img.shields.io/badge/MongoDB-3b4252?style=flat-square&logo=mongodb&logoColor=a3be8c)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-3b4252?style=flat-square&logo=influxdb&logoColor=88c0d0)
-![Neo4j](https://img.shields.io/badge/Neo4j-3b4252?style=flat-square&logo=neo4j&logoColor=88c0d0)
-![Redis](https://img.shields.io/badge/Redis-3b4252?style=flat-square&logo=redis&logoColor=bf616a)
-![Power BI](https://img.shields.io/badge/Power%20BI-3b4252?style=flat-square&logo=powerbi&logoColor=ebcb8b)
-![Grafana](https://img.shields.io/badge/Grafana-3b4252?style=flat-square&logo=grafana&logoColor=d08770)
-
----
-
-## Projects
-
-### 🩺 Real-Time Streaming Architecture for Healthcare Analytics
-> BSc thesis — streaming pipeline for continuous time-series sensor data
-
-Kafka · Spark Structured Streaming · InfluxDB · Grafana
-
-Designed a hybrid batch + real-time system for ingesting and processing high-volume healthcare device data. Built monitoring dashboards for live analytics.
-
-&nbsp;[→ View repository](#)
-
----
-
-### 🌆 Stress Level Prediction in Barcelona
-> Predictive modelling using urban environmental and mobility data
-
-Python · scikit-learn · pandas · GeoPandas
-
-Built a machine learning pipeline to identify environmental factors linked to urban stress — from data collection and feature engineering to model validation.
-
-&nbsp;[→ View repository](#)
-
----
-
-### 🎬 Content Recommendation System
-> Collaborative and content-based filtering
-
-Python · NumPy · pandas
-
-Recommendation engine using user ratings and item features, with a clean data pipeline supporting inference at scale.
-
-&nbsp;[→ View repository](#)
-
----
-
-<div align="center">
-
-<sub>Open to Data Engineering and MLOps roles starting late 2026 · AWS Cloud Practitioner in progress</sub>
-
-</div>
